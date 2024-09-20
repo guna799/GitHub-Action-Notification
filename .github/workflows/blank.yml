@@ -30,4 +30,4 @@ jobs:
           # comma-separated string, send email to
           to: gunavardhanm@infinite.com
           # from email name
-          from: Gunavardhan
+          from: Github-Action-Notifications
