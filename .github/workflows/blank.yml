@@ -12,6 +12,7 @@ jobs:
 
       - name: Hello World
         run: echo "Hello, world!"
+        run: pwd
         
       - name: Send mail
         if: always()
