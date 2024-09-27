@@ -12,7 +12,7 @@ jobs:
 
       - name: Hello World
         run: echo "Hello, world!"
-        run: pwd
+        run: echo "welcome to the github actions"
         
       - name: Send mail
         if: always()
