@@ -12,7 +12,8 @@ jobs:
 
       - name: Hello World
         run: echo "Hello, world!"
-        run: echo "welcome to the github actions"
+             echo "welcome to the github actions"
+             echo " This is Guna  in Git actions workfllows"
         
       - name: Send mail
         if: always()
